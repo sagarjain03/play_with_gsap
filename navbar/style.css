@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'gilroy';
+  background-color: black;
+  box-sizing: border-box;
+  color: white;
+ 
+}
+html.body{
+  height: 100%;
+  width: 100%;
+}  
+nav{
+  
+  padding: 12px;
+  margin: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navright{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 10px;
+
+}
