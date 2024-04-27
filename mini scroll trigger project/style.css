@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
+  padding: 0;
+}
+
+.page1, .page2 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page1 {
+  background-color: #f0f0f0;
+  height: 100%;
+  width: 100%;
+}
+
+.page2 {
+  height: 100%;
+  width: 100%;
+  background-color: #333;
+  color: white;
+}
+
+h1 {
+  font-size: 40vh;
+  
+}
