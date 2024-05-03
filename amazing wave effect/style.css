@@ -22,5 +22,6 @@ body{
   color: white;
 }
 h1 span{
-  display: inline-block;
+  display: inline-block; 
+  /* ye bhut jyada important h  */
 }
