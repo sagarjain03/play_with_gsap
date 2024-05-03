@@ -25,6 +25,7 @@ nav{
 i{
   font-size: 2vw;
   border-radius: 50%;
+  cursor:pointer;
   /* border: 4px solid white; */
 }
 aside{
